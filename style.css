@@ -1,0 +1,49 @@
+
+body {
+    background-color: white;
+}
+
+h1{
+    font-family: 'campaign-serif', sans-serif;
+    font-weight: 700;
+    color: green;
+    font-size: 80px;
+}
+
+h2{
+    font-family: 'campaign-serif', sans-serif;
+    font-weight: 700;
+    color: #f5bf36;
+    font-size: 60px;
+}
+
+h3{ font-family: 'campaign-serif', sans-serif;
+    font-weight: 700;
+    color: white;
+    font-size: 90px;
+}
+
+p {
+    font-family: 'forma-djr-deck', sans-serif';
+    font-weight: 400;
+    font-size: 20px;
+    color: #535454;
+    line-height: 25px;
+    
+}
+
+p2 {
+    font-family: 'forma-djr-deck', sans-serif';
+    font-weight: 400;
+    font-style: italic;
+    font-size: 15px;
+    color: #535454;
+    line-height: 25px;
+    
+}
+
+footer {
+    text-align: center;
+    background-color: green;
+    
+}
